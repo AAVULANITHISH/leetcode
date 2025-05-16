@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AAVULANITHISH/leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AAVULANITHISH/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AAVULANITHISH/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1677-matrix-diagonal-sum](https://github.com/AAVULANITHISH/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AAVULANITHISH/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AAVULANITHISH/leetcode/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/AAVULANITHISH/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
