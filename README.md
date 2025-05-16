@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AAVULANITHISH/leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AAVULANITHISH/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AAVULANITHISH/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AAVULANITHISH/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AAVULANITHISH/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AAVULANITHISH/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/AAVULANITHISH/leetcode/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/AAVULANITHISH/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
