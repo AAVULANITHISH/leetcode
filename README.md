@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AAVULANITHISH/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AAVULANITHISH/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
