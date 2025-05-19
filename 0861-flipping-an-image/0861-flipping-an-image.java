@@ -8,8 +8,8 @@ class Solution {
 
 
             while(start <= end){
-                int temp = image[i][start] ^ 1;
-                image[i][start]=image[i][end] ^ 1;
+                int temp =1- image[i][start] ;
+                image[i][start]=1-image[i][end] ;
                 image[i][end]=temp;
                 start++;
                 end--;
