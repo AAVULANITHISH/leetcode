@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/AAVULANITHISH/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/AAVULANITHISH/leetcode/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AAVULANITHISH/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AAVULANITHISH/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AAVULANITHISH/leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/AAVULANITHISH/leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/AAVULANITHISH/leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
