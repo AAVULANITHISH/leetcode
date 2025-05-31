@@ -104,5 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AAVULANITHISH/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0861-flipping-an-image](https://github.com/AAVULANITHISH/leetcode/tree/master/0861-flipping-an-image) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AAVULANITHISH/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
