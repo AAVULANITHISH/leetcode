@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/AAVULANITHISH/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/AAVULANITHISH/leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/AAVULANITHISH/leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## String
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AAVULANITHISH/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AAVULANITHISH/leetcode/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/AAVULANITHISH/leetcode/tree/master/0874-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AAVULANITHISH/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AAVULANITHISH/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0861-flipping-an-image](https://github.com/AAVULANITHISH/leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/AAVULANITHISH/leetcode/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AAVULANITHISH/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/AAVULANITHISH/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/AAVULANITHISH/leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/AAVULANITHISH/leetcode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
