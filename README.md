@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/AAVULANITHISH/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/AAVULANITHISH/leetcode/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/AAVULANITHISH/leetcode/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/AAVULANITHISH/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0898-transpose-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/AAVULANITHISH/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/AAVULANITHISH/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AAVULANITHISH/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AAVULANITHISH/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/AAVULANITHISH/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/AAVULANITHISH/leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
